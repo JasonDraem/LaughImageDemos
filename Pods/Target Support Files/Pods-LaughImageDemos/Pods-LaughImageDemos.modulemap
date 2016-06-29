@@ -1,0 +1,6 @@
+framework module Pods_LaughImageDemos {
+  umbrella header "Pods-LaughImageDemos-umbrella.h"
+
+  export *
+  module * { export * }
+}
